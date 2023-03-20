@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab02</string>
+    <string name="editWeight" />
+    <string name="editHeight" />
+    <string name="textBtn_result" />
+    <string name="resultBmi" />
+</resources>
